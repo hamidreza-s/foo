@@ -1,4 +1,4 @@
--module(cafe).
+-module(smoothie_maker).
 -author("hamidreza.s@gmail.com").
 -export([ingredients/1]).
 
